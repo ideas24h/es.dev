@@ -1,0 +1,147 @@
+1474621869
+a:2:{s:7:"content";s:6325:"<div class="container">
+    <div class="row">
+        <div class="col-md-offset-2 col-md-8">
+            <nav class="navbar navbar-default "  >
+  <div class=" container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar3" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"> Gravstrap theme </a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbar3">
+                    <ul class="nav navbar-nav  navbar-center
+" >
+                        <li><a href="/es">Home</a>
+</li>
+                    <li><a href="/es/gravstrap-theme-simple-page-example">Home single</a>
+</li>
+                    <li><a href="/es/home-page-with-carousel-header">Carousel header</a>
+</li>
+                    <li><a href="/es/my-gravtastic-blog">Blog</a>
+</li>
+                    <li><a href="/es/something-about-me">Author</a>
+</li>
+                    <li><li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Layouts <span class="caret"></span></a>
+    <ul class="dropdown-menu ">
+          <li><a href="/es/gravstrap-theme-versatile-internal-template/the-internal-template-in-detail">Internal template configured with two sidebars</a>
+</li>
+              <li><a href="/es/gravstrap-theme-versatile-internal-template/left-internal-template">Left internal template</a>
+</li>
+              <li><a href="/es/gravstrap-theme-versatile-internal-template/right-internal-template">Right column internal template</a>
+</li>
+              <li><a href="/es/gravstrap-theme-versatile-internal-template/fullwidth-template">Fullwidth template</a>
+</li>
+      </ul>
+</li>
+</li>
+                    <li><li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Components <span class="caret"></span></a>
+    <ul class="dropdown-menu ">
+          <li><a href="/es/gravstrap-components-for-grav-cms-application/basic-shortcodes-for-grav-cms">Basic</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/bootstrap-components-as-shortcodes-for-grav-cms">Bootstrap</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/modules-shortcodes-for-grav-cms">Modules</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/dynamic-bootstrap-components-as-shortcodes-for-grav-cms">Dynamic components</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/miscellaneous-components-as-shortcodes-for-grav-cms">Miscellaneous components</a>
+</li>
+      </ul>
+</li>
+</li>
+            </ul>
+
+                    <ul class="nav navbar-nav  my-class navbar-right
+"   rel="my-rel">
+                        <li><a href="https://facebook.com/gravstrap"><i class="fa fa-facebook " ></i>
+</a>
+</li>
+                    <li><a href="https://twitter.com/gravstrap"><i class="fa fa-twitter " ></i>
+</a>
+</li>
+                    <li><a href="https://github.com/giansi/gravstrap"><i class="fa fa-github " ></i>
+</a>
+</li>
+            </ul>
+
+                    <ul class="nav navbar-nav  navbar-center
+" >
+                        <li><a href="/es">Home</a>
+</li>
+                    <li><a href="/es/gravstrap-theme-simple-page-example">Home single</a>
+</li>
+                    <li><a href="/es/home-page-with-carousel-header">Carousel header</a>
+</li>
+                    <li><a href="/es/my-gravtastic-blog">Blog</a>
+</li>
+                    <li><a href="/es/something-about-me">Author</a>
+</li>
+                    <li><li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Layouts <span class="caret"></span></a>
+    <ul class="dropdown-menu ">
+          <li><a href="/es/gravstrap-theme-versatile-internal-template/the-internal-template-in-detail">Internal template configured with two sidebars</a>
+</li>
+              <li><a href="/es/gravstrap-theme-versatile-internal-template/left-internal-template">Left internal template</a>
+</li>
+              <li><a href="/es/gravstrap-theme-versatile-internal-template/right-internal-template">Right column internal template</a>
+</li>
+              <li><a href="/es/gravstrap-theme-versatile-internal-template/fullwidth-template">Fullwidth template</a>
+</li>
+      </ul>
+</li>
+</li>
+                    <li><li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Components <span class="caret"></span></a>
+    <ul class="dropdown-menu ">
+          <li><a href="/es/gravstrap-components-for-grav-cms-application/basic-shortcodes-for-grav-cms">Basic</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/bootstrap-components-as-shortcodes-for-grav-cms">Bootstrap</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/modules-shortcodes-for-grav-cms">Modules</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/dynamic-bootstrap-components-as-shortcodes-for-grav-cms">Dynamic components</a>
+</li>
+              <li><a href="/es/gravstrap-components-for-grav-cms-application/miscellaneous-components-as-shortcodes-for-grav-cms">Miscellaneous components</a>
+</li>
+      </ul>
+</li>
+</li>
+            </ul>
+
+                    <ul class="nav navbar-nav  my-class navbar-right
+"   rel="my-rel">
+                        <li><a href="https://facebook.com/gravstrap"><i class="fa fa-facebook " ></i>
+</a>
+</li>
+                    <li><a href="https://twitter.com/gravstrap"><i class="fa fa-twitter " ></i>
+</a>
+</li>
+                    <li><a href="https://github.com/giansi/gravstrap"><i class="fa fa-github " ></i>
+</a>
+</li>
+                    <li><a href="https://facebook.com/gravstrap"><i class="fa fa-facebook " ></i>
+</a>
+</li>
+                    <li><a href="https://twitter.com/gravstrap"><i class="fa fa-twitter " ></i>
+</a>
+</li>
+                    <li><a href="https://github.com/giansi/gravstrap"><i class="fa fa-github " ></i>
+</a>
+</li>
+            </ul>
+
+            </div>
+  </div>
+</nav>
+
+        </div>
+    </div>
+</div>";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:1:{s:15:"shortcodeAssets";a:2:{s:3:"css";a:1:{i:0;s:43:"plugin://gravstrap/css/gravstrap_navbar.css";}s:2:"js";a:2:{i:0;s:41:"plugin://gravstrap/js/gravstrap_navbar.js";i:1;s:31:"plugin://gravstrap/js/scroll.js";}}}}}

@@ -1,0 +1,72 @@
+1474648089
+a:2:{s:7:"content";s:2193:"            <div class="list-group">
+                                 
+                <a href="" class="list-group-item list-group-item- active foo"   rel="bar">
+                        <span class="badge">12</span>
+                        <p>6 <i class="fa fa-users " ></i>
+</p>
+        </a>
+                                 
+                <a href="" class="list-group-item list-group-item- " >
+                        <span class="badge">15</span>
+                        <p>Cras mattis consectetur purus sit amet fermentum.</p>
+        </a>
+                                 
+                <a href="" class="list-group-item list-group-item- disabled " >
+                        <span class="badge"></span>
+                        <p>Cras mattis consectetur purus sit amet fermentum.</p>
+        </a>
+                                 
+                <a href="" class="list-group-item list-group-item- " >
+                        <span class="badge">2</span>
+                        <p>Cras mattis consectetur purus sit amet fermentum.</p>
+        </a>
+    </div>
+
+<div class="col-md-12">
+    <a href="#" class="thumbnail">
+        <i class="fa fa-home fa-2x " ></i>
+
+Atico
+    </a> 
+    <a href="#" class="thumbnail">
+        <i class="fa fa-home fa-2x " ></i>
+
+Atico
+    </a> 
+    <div>
+    <a href="#" class="thumbnail">
+        <i class="fa fa-home fa-2x " ></i>
+
+Atico
+    </a> 
+    </div>
+    <div class="col-xs-6">
+    <a href="#" class="thumbnail">
+        <i class="fa fa-home fa-2x " ></i>
+
+Atico
+    </a> 
+    </div>
+    <div class="col-xs-6">
+        <a href="#" class="thumbnail">
+        <span class="glyphicon glyphicon-glass gi-3x " ></span>
+
+        atico
+        </a>
+        </div> 
+        <div class="col-xs-6">
+        <a href="#" class="thumbnail">
+        <span class="glyphicon glyphicon-glass gi-3x " ></span>
+
+        atico
+        </a>
+        </div>
+  </div>
+<ul class="col-md-4"><li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
+";s:12:"content_meta";N;}

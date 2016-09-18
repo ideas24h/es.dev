@@ -1,0 +1,32 @@
+1474621685
+a:2:{s:7:"content";s:728:"<header id="header">
+    <div class="jumbotron "   style="background-image: url('/user/pages/images/atico-terraza.jpg ')">
+        <div class="container">
+    </p>
+<div class="well " >
+    <div class="item-icon">
+150 <i class="fa fa-eur " ></i>
+
+</div>
+<p>6 <i class="fa fa-users " ></i>
+
+fontawesome
+<i class="fa fa-bed " ></i>
+
+glypicons
+<span class="glyphicon glyphicon-bed " ></span>
+
+<button type="button" class="btn btn-primary ">Precio</button>
+
+<button type="button" class="btn btn-primary ">Alquiler</button>
+
+venta</p>
+</div>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms" class="btn btn-outline-inverse btn-lg">Learn Gravstrap</a></p>
+
+    </div>
+    </div>
+
+    
+</header>
+";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:1:{s:15:"shortcodeAssets";a:2:{s:3:"css";a:1:{i:0;s:43:"plugin://gravstrap/css/gravstrap_navbar.css";}s:2:"js";a:2:{i:0;s:41:"plugin://gravstrap/js/gravstrap_navbar.js";i:1;s:31:"plugin://gravstrap/js/scroll.js";}}}}}

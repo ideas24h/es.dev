@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.image {
+  display: block;
+  width: 176px;
+  min-width: 30px;
+  height: auto;
+  margin: 111px auto 0;
+  overflow: hidden;
+}

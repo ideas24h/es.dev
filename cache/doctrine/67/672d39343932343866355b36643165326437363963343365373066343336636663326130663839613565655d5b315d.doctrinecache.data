@@ -1,0 +1,75 @@
+1474651001
+a:2:{s:7:"content";s:1733:"            <div class="col-md-12">
+    <a href="#" class="thumbnail">
+
+    </a> 
+    <a href="#" class="thumbnail">
+        <i class="fa fa-home fa-2x " ></i>
+
+Atico
+    </a> 
+    <div>
+    <a href="#" class="thumbnail">
+        <i class="fa fa-home fa-2x " ></i>
+
+Atico
+    </a> 
+    </div>
+    <div class="col-xs-6">
+    <a href="#" class="thumbnail">
+        <i class="fa fa-home fa-2x " ></i>
+
+Atico
+    </a> 
+    </div>
+    <div class="col-xs-6">
+        <a href="#" class="thumbnail">
+        <span class="glyphicon glyphicon-glass gi-3x " ></span>
+
+        atico
+        </a>
+        </div> 
+        <div class="col-xs-6">
+        <a href="#" class="thumbnail">
+        <span class="glyphicon glyphicon-glass gi-3x " ></span>
+
+        atico
+        </a>
+        </div>
+  </div>
+<ul class="nav nav-pills"><li role="presentation" class="active"><a href="#"><i class="fa fa-home fa-2x " ></i>
+
+Atico</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
+</ul>
+<div class="row">
+    </div>
+
+
+<div class="well " >
+    <div class="item-icon">
+150 <i class="fa fa-eur " ></i>
+
+</div>
+<p>6 <i class="fa fa-users " ></i>
+
+fontawesome
+<i class="fa fa-bed " ></i>
+
+glypicons
+<span class="glyphicon glyphicon-bed " ></span>
+
+<button type="button" class="btn btn-primary ">Precio</button>
+
+<button type="button" class="btn btn-primary ">Alquiler</button>
+
+venta</p>
+</div>
+<ul class="col-md-4"><li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
+";s:12:"content_meta";N;}

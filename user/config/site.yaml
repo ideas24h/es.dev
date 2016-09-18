@@ -1,0 +1,16 @@
+title: Nerja.Casa
+author:
+  name: Ideas24h
+  email: nerjacasa@ideas24h.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Alquila tu casa en nerja'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

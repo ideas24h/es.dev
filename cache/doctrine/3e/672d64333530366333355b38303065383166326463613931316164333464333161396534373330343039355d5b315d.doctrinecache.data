@@ -1,0 +1,33 @@
+1474639903
+a:2:{s:7:"content";s:691:"<div class="container">
+    <div class="row">
+        <div>
+            <div class="btn-toolbar">
+<div class="btn-group">
+ <button type="button" class="btn btn-default">
+        <i class="fa fa-home fa-2x " ></i>
+
+        Atico
+</button>
+<button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-glass gi-3x " ></span>
+
+        Atico
+</button>        
+<i class="fa fa-home fa-3x " ></i>
+
+        Atico
+<i class="fa fa-home fa-3x " ></i>
+
+Atico
+<i class="fa fa-home fa-3x " ></i>
+
+Atico<button type="button" class="btn btn-default ">Precio</button>
+
+<button type="button" class="btn btn-primary ">Alquiler</button>
+
+</div>
+</div>
+        </div>
+    </div>
+</div>";s:12:"content_meta";N;}
